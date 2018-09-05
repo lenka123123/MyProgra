@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ccc">#ccc</color>
+    <color name="zz">#dd33ff</color>
+
+
+    <color name="text_simple_gray">#888888</color>
+    <color name="red">#FFEC0C0D</color>
+    <color name="login_forget_pwd">#50B5A3</color>
+    <color name="gray">#FF737373</color>
+    <color name="transparent1">#000000</color>
+    <color name="btn_press_color">#5677fc</color>
+    <color name="transparent">#00000000</color>
+    <color name="login_line">#F3F3F3</color>
+    <color name="black">#282828</color>
+    <color name="littletextview">#5c635c</color>
+
+</resources>
